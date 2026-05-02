@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36705.20 d17.14
+VisualStudioVersion = 17.14.36705.20
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic project", "Logic project\Logic project.csproj", "{CD9F4AD0-D8E6-4A6E-9253-49F417A6A0A8}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numarical Business", "Numarical Business\Numarical Business.csproj", "{DBC9E66F-E5F2-4B98-AA0E-EC6C1F78E36E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic project", "Numecial Project\Logic project.csproj", "{CD9F4AD0-D8E6-4A6E-9253-49F417A6A0A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CD9F4AD0-D8E6-4A6E-9253-49F417A6A0A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CD9F4AD0-D8E6-4A6E-9253-49F417A6A0A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CD9F4AD0-D8E6-4A6E-9253-49F417A6A0A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CD9F4AD0-D8E6-4A6E-9253-49F417A6A0A8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DBC9E66F-E5F2-4B98-AA0E-EC6C1F78E36E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DBC9E66F-E5F2-4B98-AA0E-EC6C1F78E36E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBC9E66F-E5F2-4B98-AA0E-EC6C1F78E36E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBC9E66F-E5F2-4B98-AA0E-EC6C1F78E36E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD9F4AD0-D8E6-4A6E-9253-49F417A6A0A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD9F4AD0-D8E6-4A6E-9253-49F417A6A0A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD9F4AD0-D8E6-4A6E-9253-49F417A6A0A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD9F4AD0-D8E6-4A6E-9253-49F417A6A0A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
